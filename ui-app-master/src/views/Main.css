@@ -1,0 +1,92 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  border: 5px solid #0c3a9e;
+  border-radius: 20px;
+}
+p{
+ color: #CC6600; 
+}
+.logo{
+  border-right :2px solid #0c3a9e ;
+  border-left :2px solid #0c3a9e ;
+  padding: 20px;
+}
+.text{
+  color: #FFFFFF;
+}
+.normal{
+  border: 2px solid #0c3a9e ;
+  background-color:#154cc4 ;
+  height: 40px;
+  width: 120px;
+  margin-left: 20px;
+  margin-right: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.App-logo {
+  border : 2px solid #0c3a9e ;
+  border-radius: 30px 0px;
+  background-color: #bfd7f0;
+  height: 40px;
+  width: 120px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.content{
+  background-color: #FFFFFF;
+  border: 2px solid #0c3a9e;
+  height: 10%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content : space-between;
+}
+.cHome{
+  border : 2px solid #0c3a9e ;
+  border-radius: 30px 0px;
+  background-color: #bfd7f0;
+  width: 120px;
+  padding: 5px;
+  margin: 20px;
+}
+.cItem{
+  border : 2px solid #0c3a9e ;
+  border-radius: 30px 0px;
+  background-color: #bfd7f0;
+ 
+  padding: 5px;
+  margin: 20px;
+}
+.footer{
+  height: 10%;
+  width: 100%;
+  height: 12vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 2px solid #0c3a9e ;
+}
+
+.footerE{
+  border : 2px solid #0c3a9e ;
+  border-radius: 30px 0px;
+  background-color: #bfd7f0;
+  width: 120px; 
+}
+
+.App-header {
+  background-color: #FFFFFF;
+  border: 2px solid #0c3a9e;
+  height: 10%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content : space-between;
+}
+
