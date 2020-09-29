@@ -1,0 +1,21 @@
+BESOINS FONCTIONNELS : 
+
+    >> L'utilisateur peut s'authentifier
+    >> L'utilisateur a accès à deux cours spécifiques à condition de s'etre authentifier
+    >> L'utilisateur peut visualiser une vidéo YouTube à condition de s'etre authentifier
+    >> L'utilisateur a accès a un espace Home
+    
+BESOINS NON FONCTIONNELS :
+    
+    >> Securité
+    >> Performance
+    >> Ergonomie
+    >> Fiabilité
+    >> Compatibilité
+    >> Robustesse
+    
+
+BASE DE DONNEES :
+
+    Dans notre cas , nous utiliserons la base de données MySQL. Etant donné que l'utilisateur n'aura qu'à s'identifier nous n'aurons pas besoin de mettre en place un diagramme de classes.
+  Ainsi, nous n'aurons qu'une classe "User" dans notre base de données, qui permettra l'authentification de l'utilisateur.
